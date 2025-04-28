@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Sayed</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ammar</h1>
 <h3 align="center">🚀 A passionate Machine Learning Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
