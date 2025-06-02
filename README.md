@@ -33,17 +33,16 @@
 
 ## 🧩 Projects
 
-### 🚀 [AI-Body-Measurement](https://github.com/mu-3mar/AI-Body-Measurement)
-> Predicts accurate body measurements from two images using Computer Vision and Regression.
->
-> 🛠 Tech: Python, TensorFlow, OpenCV, FastAPI
-
----
-
 ### 🤟 [Sign Language Recognition System](https://github.com/mu-3mar/Sign-Language-Recognition)
 > Real-time translation of sign language gestures into text using deep learning and computer vision.
 >
 > 🛠 Tech: Python, PyTorch, OpenCV, MediaPipe, FastAPI
+
+---
+### 🚀 [AI-Body-Measurement](https://github.com/mu-3mar/AI-Body-Measurement)
+> Predicts accurate body measurements from two images using Computer Vision and Regression.
+>
+> 🛠 Tech: Python, TensorFlow, OpenCV, FastAPI
 
 ---
 
