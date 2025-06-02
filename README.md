@@ -27,6 +27,11 @@
 
 ## 📂 Projects
 
+### [Sign Language Recognition System](https://github.com/mu-3mar/Sign-Language-Recognition)  
+Real-time translation of sign language gestures into text using computer vision and deep learning.  
+_Tech:_ Python, FastAPI, OpenCV, PyTorch, MediaPipe  
+[Certificate](https://drive.google.com/file/d/13KS7gAHKpSHNzHX4z-qpXq9tH5mMdYDB/view?usp=sharing)  
+
 ### [AI Body Measurement](https://github.com/muhammed-amar/AI-Body-Measurement)  
 Predicts human body measurements from two images using computer vision and regression models.  
 _Tech:_ Python, TensorFlow, OpenCV, FastAPI  
