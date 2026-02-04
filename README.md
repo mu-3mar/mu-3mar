@@ -1,63 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ammar</h1>
-<h3 align="center">
-Deep Learning & Machine Learning Engineer
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="140px" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Muhammad+Ammar;Deep+Learning+%26+Machine+Learning+Engineer;Building+Intelligent+Systems" />
 
-<p align="center">
-  Passionate about building intelligent systems using Deep Learning, Computer Vision, and NLP.<br/>
-  Focused on designing robust, scalable, and production-ready AI solutions.
-</p>
+<br/><br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-## 🧠 Core Expertise
-- Deep Learning & Neural Networks  
-- Machine Learning Algorithms  
-- Computer Vision Systems  
+</div>
+
+<br/>
+
+### About
+I design and build **intelligent systems** at the intersection of  
+**Deep Learning, Machine Learning, Computer Vision, and NLP**.
+
+My focus is not just training models —  
+but **engineering reliable, scalable, and production-ready AI solutions**  
+that work in real-world environments.
+
+I care deeply about:
+- clean architectures  
+- efficient inference  
+- strong data pipelines  
+- and models that *actually* ship  
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+
+### Core Domains
+- Deep Learning Architectures  
+- Machine Learning Systems  
+- Computer Vision Pipelines  
 - Natural Language Processing  
 - Model Optimization & Deployment  
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+
+### Tools & Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,linux,git,docker&perline=9" />
 </p>
 
----
+<br/>
 
-## 🎯 Engineering Interests
-- End-to-End AI Systems  
-- Real-Time Vision Pipelines  
-- Large-Scale Model Training  
-- Inference Optimization  
-- AI for Industrial & Real-World Applications  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
----
+### Engineering Mindset
+- End-to-End AI systems over isolated models  
+- Strong preference for **clarity over complexity**  
+- Performance, robustness, and maintainability first  
+- Research-aware, production-driven  
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="mailto:mu.3marr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mu-3mar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mu-3mar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=Turning+data+into+intelligent+decisions.;Engineering+AI+that+actually+works." />
+
+</div>
