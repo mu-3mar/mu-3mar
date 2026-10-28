@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mu-3mar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F04B24&icon_color=F04B24&text_color=E5E5E5&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mu-3mar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F04B24&icon_color=F04B24&text_color=E5E5E5&rank_icon=github&include_all_commits=false" height="170" alt="GitHub stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-3mar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F04B24&text_color=E5E5E5&langs_count=8" height="170" alt="Most used languages"/>
 
@@ -37,7 +37,6 @@
 <img src="https://streak-stats.demolab.com?user=mu-3mar&hide_border=true&background=0D0D0D&ring=F04B24&fire=F04B24&currStreakLabel=F04B24&sideLabels=A3A3A3&dates=737373&currStreakNum=FFFFFF&sideNums=E5E5E5" alt="GitHub streak"/>
 
 </div>
-
 <br/>
 
 ## About Me
