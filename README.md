@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,45:171717,75:302500,100:FFD700&height=240&section=header&text=Muhammad%20Ammar&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20Engineer&descSize=19&descColor=FFD700&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Ammar - Machine Learning Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,45:171717,75:30180F,100:F04B24&height=240&section=header&text=Muhammad%20Ammar&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20Engineer&descSize=19&descColor=F04B24&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Ammar - Machine Learning Engineer"/>
 
 <br/>
 
 <p>Building end-to-end machine learning solutions from <strong>data and modeling to inference and deployment</strong>.</p>
 
 <p>
-<a href="https://linkedin.com/in/mu-3mar"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
-<a href="https://www.kaggle.com/mohamedsayedamarmsa"><img src="https://raster.shields.io/badge/Kaggle-171717?style=for-the-badge&logo=kaggle&logoColor=FFD700" alt="Kaggle"/></a>
-<a href="https://ammar-ml.vercel.app"><img src="https://raster.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio"/></a>
-<a href="mailto:i.muhamad.amar@gmail.com"><img src="https://raster.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
+<a href="https://linkedin.com/in/mu-3mar"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=F04B24" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/mohamedsayedamarmsa"><img src="https://raster.shields.io/badge/Kaggle-171717?style=for-the-badge&logo=kaggle&logoColor=F04B24" alt="Kaggle"/></a>
+<a href="https://ammar-ml.vercel.app"><img src="https://raster.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=F04B24" alt="Portfolio"/></a>
+<a href="mailto:i.muhamad.amar@gmail.com"><img src="https://raster.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=F04B24" alt="Email"/></a>
 </p>
 
 <br/>
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mu-3mar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFD700&icon_color=FFD700&text_color=E5E5E5&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mu-3mar&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F04B24&icon_color=F04B24&text_color=E5E5E5&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-3mar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFD700&text_color=E5E5E5&langs_count=8" height="170" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mu-3mar&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F04B24&text_color=E5E5E5&langs_count=8" height="170" alt="Most used languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mu-3mar&hide_border=true&background=0D0D0D&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=A3A3A3&dates=737373&currStreakNum=FFFFFF&sideNums=E5E5E5" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=mu-3mar&hide_border=true&background=0D0D0D&ring=F04B24&fire=F04B24&currStreakLabel=F04B24&sideLabels=A3A3A3&dates=737373&currStreakNum=FFFFFF&sideNums=E5E5E5" alt="GitHub streak"/>
 
 </div>
 
@@ -60,17 +60,17 @@ My focus is on building systems that are **accurate, efficient, maintainable, an
 
 <br/><br/>
 
-<img src="https://raster.shields.io/badge/Scikit--learn-171717?style=for-the-badge&logo=scikitlearn&logoColor=FFD700" alt="Scikit-learn"/>
-<img src="https://raster.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=FFD700" alt="NumPy"/>
-<img src="https://raster.shields.io/badge/Pandas-171717?style=for-the-badge&logo=pandas&logoColor=FFD700" alt="Pandas"/>
-<img src="https://raster.shields.io/badge/Matplotlib-171717?style=for-the-badge&logo=plotly&logoColor=FFD700" alt="Matplotlib"/>
-<img src="https://raster.shields.io/badge/Seaborn-171717?style=for-the-badge&logo=python&logoColor=FFD700" alt="Seaborn"/>
-<img src="https://raster.shields.io/badge/YOLO-171717?style=for-the-badge&logo=ultralytics&logoColor=FFD700" alt="YOLO"/>
-<img src="https://raster.shields.io/badge/ONNX-171717?style=for-the-badge&logo=onnx&logoColor=FFD700" alt="ONNX"/>
-<img src="https://raster.shields.io/badge/TensorRT-171717?style=for-the-badge&logo=nvidia&logoColor=FFD700" alt="TensorRT"/>
-<img src="https://raster.shields.io/badge/Firebase-171717?style=for-the-badge&logo=firebase&logoColor=FFD700" alt="Firebase"/>
-<img src="https://raster.shields.io/badge/MediaPipe-171717?style=for-the-badge&logo=google&logoColor=FFD700" alt="MediaPipe"/>
-<img src="https://raster.shields.io/badge/SQL-171717?style=for-the-badge&logo=mysql&logoColor=FFD700" alt="SQL"/>
+<img src="https://raster.shields.io/badge/Scikit--learn-171717?style=for-the-badge&logo=scikitlearn&logoColor=F04B24" alt="Scikit-learn"/>
+<img src="https://raster.shields.io/badge/NumPy-171717?style=for-the-badge&logo=numpy&logoColor=F04B24" alt="NumPy"/>
+<img src="https://raster.shields.io/badge/Pandas-171717?style=for-the-badge&logo=pandas&logoColor=F04B24" alt="Pandas"/>
+<img src="https://raster.shields.io/badge/Matplotlib-171717?style=for-the-badge&logo=plotly&logoColor=F04B24" alt="Matplotlib"/>
+<img src="https://raster.shields.io/badge/Seaborn-171717?style=for-the-badge&logo=python&logoColor=F04B24" alt="Seaborn"/>
+<img src="https://raster.shields.io/badge/YOLO-171717?style=for-the-badge&logo=ultralytics&logoColor=F04B24" alt="YOLO"/>
+<img src="https://raster.shields.io/badge/ONNX-171717?style=for-the-badge&logo=onnx&logoColor=F04B24" alt="ONNX"/>
+<img src="https://raster.shields.io/badge/TensorRT-171717?style=for-the-badge&logo=nvidia&logoColor=F04B24" alt="TensorRT"/>
+<img src="https://raster.shields.io/badge/Firebase-171717?style=for-the-badge&logo=firebase&logoColor=F04B24" alt="Firebase"/>
+<img src="https://raster.shields.io/badge/MediaPipe-171717?style=for-the-badge&logo=google&logoColor=F04B24" alt="MediaPipe"/>
+<img src="https://raster.shields.io/badge/SQL-171717?style=for-the-badge&logo=mysql&logoColor=F04B24" alt="SQL"/>
 
 </div>
 
@@ -88,8 +88,8 @@ Two-stage real-time computer vision system for product localization and defect d
 
 <br/>
 
-<img src="https://raster.shields.io/badge/Product%20Detection-99.4%25%20mAP50-FFD700?style=for-the-badge&labelColor=171717" alt="Product detection mAP50"/>
-<img src="https://raster.shields.io/badge/Defect%20Detection-94.2%25%20mAP50-FFD700?style=for-the-badge&labelColor=171717" alt="Defect detection mAP50"/>
+<img src="https://raster.shields.io/badge/Product%20Detection-99.4%25%20mAP50-F04B24?style=for-the-badge&labelColor=171717" alt="Product detection mAP50"/>
+<img src="https://raster.shields.io/badge/Defect%20Detection-94.2%25%20mAP50-F04B24?style=for-the-badge&labelColor=171717" alt="Defect detection mAP50"/>
 
 <br/>
 
@@ -107,8 +107,8 @@ Classification pipeline built on <strong>500K+ records</strong>.
 
 <br/>
 
-<img src="https://raster.shields.io/badge/Accuracy-87%25-FFD700?style=for-the-badge&labelColor=171717" alt="Accuracy 87 percent"/>
-<img src="https://raster.shields.io/badge/F1--Score-0.91-FFD700?style=for-the-badge&labelColor=171717" alt="F1 score 0.91"/>
+<img src="https://raster.shields.io/badge/Accuracy-87%25-F04B24?style=for-the-badge&labelColor=171717" alt="Accuracy 87 percent"/>
+<img src="https://raster.shields.io/badge/F1--Score-0.91-F04B24?style=for-the-badge&labelColor=171717" alt="F1 score 0.91"/>
 
 <br/>
 
@@ -137,7 +137,7 @@ End-to-end regression pipeline across <strong>517K+ records</strong>.
 
 <br/>
 
-<img src="https://raster.shields.io/badge/Test%20R%C2%B2-0.804%20%E2%86%92%200.887-FFD700?style=for-the-badge&labelColor=171717" alt="Test R squared improvement"/>
+<img src="https://raster.shields.io/badge/Test%20R%C2%B2-0.804%20%E2%86%92%200.887-F04B24?style=for-the-badge&labelColor=171717" alt="Test R squared improvement"/>
 
 <br/>
 
@@ -152,7 +152,7 @@ Multi-input deep learning system predicting <strong>14 body measurements</strong
 
 <br/>
 
-<img src="https://raster.shields.io/badge/Validation%20MAE-2.86-FFD700?style=for-the-badge&labelColor=171717" alt="Validation MAE 2.86"/>
+<img src="https://raster.shields.io/badge/Validation%20MAE-2.86-F04B24?style=for-the-badge&labelColor=171717" alt="Validation MAE 2.86"/>
 
 <br/>
 
@@ -194,13 +194,13 @@ Bachelor's Degree in Computer Science
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mu-3mar"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
-<a href="https://www.kaggle.com/mohamedsayedamarmsa"><img src="https://raster.shields.io/badge/Kaggle-171717?style=for-the-badge&logo=kaggle&logoColor=FFD700" alt="Kaggle"/></a>
-<a href="https://ammar-ml.vercel.app"><img src="https://raster.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio"/></a>
-<a href="mailto:i.muhamad.amar@gmail.com"><img src="https://raster.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
+<a href="https://linkedin.com/in/mu-3mar"><img src="https://raster.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=F04B24" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/mohamedsayedamarmsa"><img src="https://raster.shields.io/badge/Kaggle-171717?style=for-the-badge&logo=kaggle&logoColor=F04B24" alt="Kaggle"/></a>
+<a href="https://ammar-ml.vercel.app"><img src="https://raster.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=F04B24" alt="Portfolio"/></a>
+<a href="mailto:i.muhamad.amar@gmail.com"><img src="https://raster.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=F04B24" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:302500&height=120&section=footer" width="100%" alt="Black and gold footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:30180F&height=120&section=footer" width="100%" alt="Black and orange-red footer"/>
 
 </div>
